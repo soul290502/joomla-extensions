@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension 
+	version="3.0"
+	type="plugin"
+	group="content"
+	method="upgrade">
+	<name>content - click to call</name>
+	<author>joey</author>
+	<creationDate>August 2014</creationDate>
+	<version>1.0.0</version>
+	<copyright>Copyright  (C) 2014 matchtennis</copyright>
+	<description>replace the phone number to dial action</description>
+	<files>
+		<filename plugin="clicktocall">clicktocall.php</filename>
+		<filename>index.html</filename>
+	</files>
+</extension>
+
